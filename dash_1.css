@@ -1,0 +1,9 @@
+ag-theme-quartz.compact {
+    --ag-grid-size: 3px;
+}
+ag-theme-quartz-dark.compact {
+    --ag-grid-size: 3px;
+}
+ag-theme-quartz-auto-dark.compact {
+    --ag-grid-size: 3px;
+}
